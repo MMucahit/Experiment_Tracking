@@ -1,0 +1,2 @@
+# MLflow UI
+mlflow ui --backend-store-uri sqlite:///mlfow.db
